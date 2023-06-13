@@ -1,0 +1,24 @@
+.box {
+    width:200px; 
+    height: 100px; 
+
+}
+
+.box-blue{
+    color: orange; 
+    background-color: #0000ff;
+
+}
+.box-purple{ 
+    color: yellow;
+    background-color: purple;
+}
+
+.box-black{
+    color: white;
+    background-color: black;
+}
+#box-black1{
+    color: yellow;
+    background-color: black;
+}
